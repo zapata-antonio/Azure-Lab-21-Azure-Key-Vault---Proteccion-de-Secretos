@@ -48,7 +48,7 @@ Se muestra el secreto `PasswordServidor` dentro de la lista de secretos del Key 
 
 ---
 
-### 02 – Borrado denegado (opcional)
+### 02 – Borrado denegado 
 <img src="images/02-delete-denied.png" width="800">
 
 Se muestra el intento de eliminar el secreto y el error por falta de permisos.
